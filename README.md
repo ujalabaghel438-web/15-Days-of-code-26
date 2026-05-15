@@ -44,7 +44,7 @@ This repository is part of the **15 Days of Code Challenge** organized by **Visi
 
 # 📅 My Progress
 
-## Day 1 ✅
+## Day 1(15 may) ✅
 ### Topic: Git & GitHub Basics
 
 Today I learned:
