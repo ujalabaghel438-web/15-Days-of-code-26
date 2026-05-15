@@ -48,13 +48,3 @@ This repository is part of the **15 Days of Code Challenge** organized by **Visi
 ### 🎥 Learning Resource:
 Git & GitHub Tutorial: https://www.youtube.com/watch?v=q8EevlEpQ2A
 
-### 📸 Progress Screenshot:
-(Add your screenshot here)
-
-Example:
-
-![Day 1 Progress](Day01/git_and_github_tutorial.png)
-
----
-
-⭐ Consistency beats intensity. Keep learning, keep building, keep coding!
