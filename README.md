@@ -58,3 +58,5 @@ Today I learned:
 Git & GitHub Tutorial — https://www.youtube.com/watch?v=q8EevlEpQ2A
 
 
+codeforces problem link(odd divisor) - https://codeforces.com/problemset/problem/1475/A
+
