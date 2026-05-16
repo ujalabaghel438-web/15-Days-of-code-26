@@ -40,8 +40,6 @@ This repository is part of the **15 Days of Code Challenge** organized by **Visi
 - Forking repositories and pushing code
 - Uploading files and organizing folders in GitHub
 
----
-
 ### 💻 Coding Practice:
 
 #### Codeforces
@@ -58,18 +56,42 @@ https://leetcode.com/problems/check-if-array-is-good/submissions/2003487099/?env
 Problem Link:  
 https://leetcode.com/problems/rotate-array/description/
 
+### 🎥 Learning Resources:
+
+#### Git & GitHub
+https://www.youtube.com/watch?v=q8EevlEpQ2A
+
+#### C++ Learning
+Lecture 16: https://youtu.be/UdO2NeHB46c  
+Lecture 17: https://youtu.be/zOhUavxlzw4  
+
+---
+
+## Day 2 — 16 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Merge Sorted Array**  
+Solution Link:  
+https://leetcode.com/problems/merge-sorted-array/submissions/2004410654/
+
+**2. Move Zeroes**  
+Solution Link:  
+https://leetcode.com/problems/move-zeroes/submissions/2004633955/
+
 ---
 
 ### 🎥 Learning Resources:
 
-#### Git & GitHub
-Git & GitHub Tutorial:  
-https://www.youtube.com/watch?v=q8EevlEpQ2A
-
 #### C++ Learning
-C++ Lecture 1:  
-https://youtu.be/UdO2NeHB46c
 
-C++ Lecture 2:  
-https://youtu.be/zOhUavxlzw4
+Lecture 18:  
+https://youtu.be/7kIVfVY6Axk
+
+Lecture 20:  
+https://youtu.be/MPvr-LmaZmA
+
 ---
+
