@@ -107,3 +107,31 @@ https://youtu.be/MPvr-LmaZmA
 
 ---
 
+## Day 3 — 17 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Find Smallest Letter Greater Than Target**  
+Solution Link:  
+https://leetcode.com/problems/find-smallest-letter-greater-than-target/submissions/2005666119/
+
+**2. Trionic Array I**  
+Solution Link:  
+https://leetcode.com/problems/trionic-array-i/submissions/2005680935/?envType=daily-question&envId=2026-05-17
+
+---
+
+### 🎥 Learning Resources:
+
+#### C++ Learning
+
+Lecture 19:  
+https://youtu.be/WgMPrLX-zsA
+
+Lecture 21:  
+https://youtu.be/Z7_nMTHROZo
+
+---
+
