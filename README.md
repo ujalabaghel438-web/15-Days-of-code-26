@@ -45,7 +45,7 @@ This repository is part of the **15 Days of Code Challenge** organized by **Visi
 #### Codeforces
 **Odd Divisor**  
 Solution Link:  
-https://codeforces.com/contest/1475/submission/374588366
+https://codeforces.com/contest/1475/problem/A
 
 #### LeetCode
 **1. Check If Array Is Good**  
@@ -150,16 +150,16 @@ https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-repre
 #### Codeforces
 
 **1. Make it Divisible by 25**  
-Solution Link:  
-https://codeforces.com/contest/1593/submission/375024550
+Problem Link:  
+https://codeforces.com/problemset/problem/1593/B
 
 **2. Exciting Bets**  
-Solution Link:  
-https://codeforces.com/contest/1543/submission/375030370
+Problem Link:  
+https://codeforces.com/problemset/problem/1543/A
 
-**3. Luntik and Concerts**  
-Solution Link:  
-https://codeforces.com/contest/1582/submission/375039178
+**3. Luntik and Subsequences**  
+Problem Link:  
+https://codeforces.com/problemset/problem/1582/B
 
 ---
 
