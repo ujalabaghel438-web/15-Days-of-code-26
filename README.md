@@ -145,6 +145,9 @@ https://youtu.be/Z7_nMTHROZo
 Solution Link:  
 https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one/submissions/2006428761/?envType=daily-question&envId=2026-05-18
 
+**2. Maximum Ice Cream Bars**  
+Solution Link:  https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2006640377/
+
 ---
 
 #### Codeforces
