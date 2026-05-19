@@ -174,3 +174,32 @@ Lecture 22:
 https://youtu.be/Wdjr6uoZ0e0
 
 ---
+
+## Day 5 — 19 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Longest Subarray With Maximum Bitwise AND**  
+Solution Link:  
+https://leetcode.com/problems/longest-subarray-with-maximum-bitwise-and/submissions/2007381195/
+
+**2. Minimum Common Value**  
+Solution Link:  
+https://leetcode.com/problems/minimum-common-value/submissions/2006994167/
+
+**3. Minimum Absolute Distance Between Mirror Pairs**  
+Solution Link:  
+https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs/submissions/2007129528/?envType=daily-question&envId=2026-05-19
+
+---
+
+### 🎥 Learning Resources:
+
+#### C++ Learning
+
+Lecture 23:  
+https://youtu.be/1CdolnvxLs0e0
+
+---
