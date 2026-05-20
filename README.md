@@ -207,3 +207,31 @@ Lecture 23:
 https://youtu.be/1CdolnvxLs0e0
 
 ---
+
+## Day 6 — 20 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Delete Greatest Value in Each Row**  
+Solution Link:  
+https://leetcode.com/problems/delete-greatest-value-in-each-row/submissions/2007610203/
+
+**2. Find the Prefix Common Array of Two Arrays**  
+Solution Link:  
+https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/submissions/2007963793/
+
+**3. Find Unique Binary String**  
+Solution Link:  
+https://leetcode.com/problems/find-unique-binary-string/submissions/2008209658/
+
+**4. Find Kth Bit in Nth Binary String**  
+Solution Link:  
+https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/submissions/2008246656/
+
+**5. Minimum Difference Between Highest and Lowest of K Scores**  
+Solution Link:  
+https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/submissions/2008264362/
+
+---
