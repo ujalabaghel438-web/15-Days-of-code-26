@@ -235,3 +235,31 @@ Solution Link:
 https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/submissions/2008264362/
 
 ---
+
+## Day 7 — 21 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Construct Product Matrix**  
+Solution Link:  
+https://leetcode.com/problems/construct-product-matrix/submissions/2008820496/
+
+**2. Closest Equal Element Queries**  
+Solution Link:  
+https://leetcode.com/problems/closest-equal-element-queries/submissions/2008896101/
+
+**3. Longest Palindromic Substring**  
+Solution Link:  
+https://leetcode.com/problems/longest-palindromic-substring/submissions/2009139055/
+
+**4. Break a Palindrome**  
+Solution Link:  
+https://leetcode.com/problems/break-a-palindrome/submissions/2009157870/
+
+**5. Sort Vowels in a String**  
+Solution Link:  
+https://leetcode.com/problems/sort-vowels-in-a-string/submissions/2009178939/
+
+---
