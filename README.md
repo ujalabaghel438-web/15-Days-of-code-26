@@ -263,3 +263,28 @@ Solution Link:
 https://leetcode.com/problems/sort-vowels-in-a-string/submissions/2009178939/
 
 ---
+
+## Day 8 — 22 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Search in Rotated Sorted Array**  
+Solution Link:  
+https://leetcode.com/problems/search-in-rotated-sorted-array/submissions/2009611201/
+
+**2. Minimum Changes to Make Alternating Binary String**  
+Solution Link:  
+https://leetcode.com/problems/minimum-changes-to-make-alternating-binary-string/submissions/2009646480/
+
+---
+
+### 🎥 Learning Resources:
+
+#### C++ Learning
+
+Lecture 24:  
+https://youtu.be/KdePjukNs98
+
+---
