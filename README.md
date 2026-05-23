@@ -289,7 +289,7 @@ https://youtu.be/KdePjukNs98
 
 ---
 
-## Day 9 — 24 May ✅
+## Day 9 — 23 May ✅
 
 ### 💻 Coding Practice:
 
