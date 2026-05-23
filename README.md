@@ -288,3 +288,31 @@ Lecture 24:
 https://youtu.be/KdePjukNs98
 
 ---
+
+## Day 9 — 24 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Reverse String**  
+Solution Link:  
+https://leetcode.com/problems/reverse-string/submissions/2010452071/
+
+**2. Valid Palindrome**  
+Solution Link:  
+https://leetcode.com/problems/valid-palindrome/submissions/2010477414/
+
+**3. Reverse Words in a String**  
+Solution Link:  
+https://leetcode.com/problems/reverse-words-in-a-string/submissions/2010792760/
+
+**4. Reverse Words in a String III**  
+Solution Link:  
+https://leetcode.com/problems/reverse-words-in-a-string-iii/submissions/2010808221/
+
+**5. Minimum Swaps to Move Zeros to End**  
+Solution Link:  
+https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/submissions/2010833018/
+
+---
