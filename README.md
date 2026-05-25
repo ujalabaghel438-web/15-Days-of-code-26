@@ -316,3 +316,79 @@ Solution Link:
 https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end/submissions/2010833018/
 
 ---
+
+## Day 10 — 24 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Sort Characters By Frequency**  
+Solution Link:  
+https://leetcode.com/problems/sort-characters-by-frequency/submissions/2011637205/
+
+**2. First Unique Character in a String**  
+Solution Link:  
+https://leetcode.com/problems/first-unique-character-in-a-string/submissions/2011663071/
+
+**3. Valid Anagram**  
+Solution Link:  
+https://leetcode.com/problems/valid-anagram/submissions/2011675936/
+
+**4. Majority Element**  
+Solution Link:  
+https://leetcode.com/problems/majority-element/submissions/2011684761/
+
+**5. Defanging an IP Address**  
+Solution Link:  
+https://leetcode.com/problems/defanging-an-ip-address/submissions/2011723759/
+
+**6. Remove All Occurrences of a Substring**  
+Solution Link:  
+https://leetcode.com/problems/remove-all-occurrences-of-a-substring/submissions/2011750415/
+
+**7. Permutation in String**  
+Solution Link:  
+https://leetcode.com/problems/permutation-in-string/submissions/2011784090/
+
+**8. Remove All Adjacent Duplicates in String**  
+Solution Link:  
+https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/submissions/2011810356/
+
+---
+
+## Day 11 — 25 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Limit Occurrences in Sorted Array**  
+Solution Link:  
+https://leetcode.com/problems/limit-occurrences-in-sorted-array/submissions/2012309814/
+
+**2. Password Strength**  
+Solution Link:  
+https://leetcode.com/problems/password-strength/submissions/2012319049/
+
+**3. String Compression**  
+Solution Link:  
+https://leetcode.com/problems/string-compression/submissions/2012712482/
+
+---
+
+#### Codeforces
+
+**1. Array Cloning Technique**  
+Problem Link:  
+https://codeforces.com/contest/1665/problem/B
+
+**2. Make AP**  
+Problem Link:  
+https://codeforces.com/contest/1624/problem/B
+
+**3. AB Balance**  
+Problem Link:  
+https://codeforces.com/contest/1606/problem/A
+
+---
