@@ -392,3 +392,31 @@ Problem Link:
 https://codeforces.com/contest/1606/problem/A
 
 ---
+
+## Day 12 — 26 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Count the Number of Special Characters I**  
+Solution Link:  
+https://leetcode.com/problems/count-the-number-of-special-characters-i/submissions/2013260337/
+
+**2. Spiral Matrix**  
+Solution Link:  
+https://leetcode.com/problems/spiral-matrix/submissions/2013295907/
+
+**3. Spiral Matrix II**  
+Solution Link:  
+https://leetcode.com/problems/spiral-matrix-ii/submissions/2013313664/
+
+**4. Search a 2D Matrix**  
+Solution Link:  
+https://leetcode.com/problems/search-a-2d-matrix/submissions/2013372097/
+
+**5. Search a 2D Matrix II**  
+Solution Link:  
+https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/2013422550/
+
+---
