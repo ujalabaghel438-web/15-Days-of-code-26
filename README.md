@@ -420,3 +420,31 @@ Solution Link:
 https://leetcode.com/problems/search-a-2d-matrix-ii/submissions/2013422550/
 
 ---
+
+## Day 13 — 27 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Pow(x, n)**  
+Solution Link:  
+https://leetcode.com/problems/powx-n/submissions/2014729447/
+
+**2. Perfect Number**  
+Solution Link:  
+https://leetcode.com/problems/perfect-number/submissions/2014656256/
+
+**3. Find Greatest Common Divisor of Array**  
+Solution Link:  
+https://leetcode.com/problems/find-greatest-common-divisor-of-array/submissions/2014627914/
+
+**4. Count Primes**  
+Solution Link:  
+https://leetcode.com/problems/count-primes/submissions/2014385796/
+
+**5. Count the Number of Special Characters II**  
+Solution Link:  
+https://leetcode.com/problems/count-the-number-of-special-characters-ii/submissions/2014302952/
+
+---
