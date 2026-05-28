@@ -465,7 +465,7 @@ https://leetcode.com/problems/prime-arrangements/submissions/2015310506/
 
 **3. Count Primes**  
 Solution Link:  
-https://leetcode.com/problems/count-primes/submissions/2015210992/
+https://leetcode.com/problems/count-primes/submissions/2015210992/(optimized)
 
 **4. Count Good Numbers**  
 Solution Link:  
