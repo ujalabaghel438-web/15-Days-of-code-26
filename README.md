@@ -448,3 +448,37 @@ Solution Link:
 https://leetcode.com/problems/count-the-number-of-special-characters-ii/submissions/2014302952/
 
 ---
+
+## Day 14 — 28 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Closest Prime Numbers in Range**
+Solution Link:
+https://leetcode.com/problems/closest-prime-numbers-in-range/submissions/2015277114/
+
+**2. Prime Arrangements**
+Solution Link:
+https://leetcode.com/problems/prime-arrangements/submissions/2015310506/
+
+**3. Count Primes**
+Solution Link:
+https://leetcode.com/problems/count-primes/submissions/2015210992/
+
+**4. Count Good Numbers**
+Solution Link:
+https://leetcode.com/problems/count-good-numbers/submissions/2015624168/(optimized)
+
+---
+
+### 🎥 Learning Resources:
+
+#### C++ Learning
+
+Lecture 25:
+
+https://youtu.be/YHwEIfrXZgE?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+
+---
