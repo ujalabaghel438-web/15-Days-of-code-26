@@ -496,6 +496,24 @@ https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/20
 Solution Link:  
 https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/2016466838/
 
+**3. Partitioning Into Minimum Number Of Deci-Binary Numbers**  
+Solution Link:  
+https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers/submissions/2016574537/?envType=daily-question&envId=2026-05-29
+
+**4. Four Divisors**  
+Solution Link:  
+https://leetcode.com/problems/four-divisors/submissions/2016547028/
+
+---
+
+### 🏆 Achievement
+
+- Successfully completed **150+ problems on LeetCode** 🚀
+
+### 📸 Progress Screenshot
+
+![LeetCode Progress](Screenshot%202026-05-29%20214358.png)
+
 ---
 
 ### 🎥 Learning Resources:
