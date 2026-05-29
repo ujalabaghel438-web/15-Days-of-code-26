@@ -481,3 +481,28 @@ Lecture 25:
 https://youtu.be/YHwEIfrXZgE?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
 
 ---
+
+## Day 15 — 29 May ✅
+
+### 💻 Coding Practice:
+
+#### LeetCode
+
+**1. Binary Number with Alternating Bits**  
+Solution Link:  
+https://leetcode.com/problems/binary-number-with-alternating-bits/submissions/2016482618/
+
+**2. Minimum Element After Replacement With Digit Sum**  
+Solution Link:  
+https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/submissions/2016466838/
+
+---
+
+### 🎥 Learning Resources:
+
+#### C++ Learning
+
+Lecture 26:  
+https://youtu.be/rlpw7oi-bpE?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
+
+---
