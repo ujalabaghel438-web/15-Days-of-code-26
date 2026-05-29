@@ -510,10 +510,6 @@ https://leetcode.com/problems/four-divisors/submissions/2016547028/
 
 - Successfully completed **150+ problems on LeetCode** 🚀
 
-### 📸 Progress Screenshot
-
-![LeetCode Progress](Screenshot%202026-05-29%20214358.png)
-
 ---
 
 ### 🎥 Learning Resources:
