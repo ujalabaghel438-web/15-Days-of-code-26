@@ -1,0 +1,56 @@
+// first and last occurence
+
+#include <iostream>
+using namespace std;
+int rightOccurence(int arr[], int t, int s, int e, int m, int n)
+{
+    int pre = m;
+
+    if(s>e) return -1;
+    if (arr[m] == t)
+    {
+        if(m+1<n && arr[m]==arr[m+1]) s = m + 1;
+        else return pre;
+    }
+    else if (arr[m] > t)
+    {
+        e = m - 1;
+    }
+    else
+    {
+        s = m + 1;
+    }
+    m = s + (e - s) / 2;
+    return rightOccurence(arr, t, s, e, m, n);
+}
+int leftOccurence(int arr[], int t, int s, int e, int m)
+{
+    int pre = m;
+    if(s>e) return -1;
+    if (arr[m] == t)
+    {
+        if(m-1>=0 && arr[m]==arr[m-1]) e = m - 1;
+        else return pre;
+    }
+    else if (arr[m] > t)
+    {
+        e = m - 1;
+    }
+    else
+    {
+        s = m + 1;
+    }
+    m = s + (e - s) / 2;
+    return leftOccurence(arr, t, s, e, m);
+}
+int main()
+{
+    int n, t;
+    cin >> n >> t;
+    int arr[n];
+    for (int i = 0; i < n; i++)
+        cin >> arr[i];
+    int s = 0, e = n - 1, m = s + (e - s) / 2;
+    cout << leftOccurence(arr, t, s, e, m) << endl;
+    cout << rightOccurence(arr, t, s, e, m, n) << endl;
+}
