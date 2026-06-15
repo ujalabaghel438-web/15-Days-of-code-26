@@ -520,3 +520,31 @@ Lecture 26:
 https://youtu.be/rlpw7oi-bpE?list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA
 
 ---
+
+## 🚀 Part 2 — Day 01 (15 June) ✅
+
+### 🎥 C++ Lectures Completed
+
+**Lecture 28:**
+https://youtu.be/MMO2c57XHzM
+
+**Lecture 29:**
+https://youtu.be/LlqgWQgm58g
+
+**Lecture 30:**
+https://youtu.be/0TEvaAiqo8Y
+
+---
+
+### 💻 Coding Practice (VS Code)
+
+#### Recursion
+
+1. Say Digits Question using Recursion
+2. Check if Array is Sorted using Recursion
+3. Linear Search using Recursion
+4. Binary Search using Recursion
+5. First and Last Occurrence using Recursion
+
+---
+
