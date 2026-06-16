@@ -562,6 +562,10 @@ https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/
 Solution Link:
 https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034904493/
 
+**3. Score Validator**
+Solution Link:
+https://leetcode.com/problems/score-validator/submissions/2035487809/
+
 ---
 
 ### 🎥 Learning Resources
