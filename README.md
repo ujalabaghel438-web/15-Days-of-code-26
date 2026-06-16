@@ -548,3 +548,30 @@ https://youtu.be/0TEvaAiqo8Y
 
 ---
 
+## Day 02 — 16 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Prime Number of Set Bits in Binary Representation**
+Solution Link:
+https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation/submissions/2034923902/
+
+**2. Process String With Special Operations I**
+Solution Link:
+https://leetcode.com/problems/process-string-with-special-operations-i/submissions/2034904493/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 31:**
+https://youtu.be/_-2u4EPHD88
+
+**Lecture 32:**
+https://youtu.be/zg8Y1oE4qYQ
+
+---
