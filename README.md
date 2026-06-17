@@ -579,3 +579,32 @@ https://youtu.be/_-2u4EPHD88
 https://youtu.be/zg8Y1oE4qYQ
 
 ---
+
+## Day 03 — 17 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Decode String**
+Solution Link:
+https://leetcode.com/problems/decode-string/submissions/2036717113/
+
+**2. Largest Triangle Area**
+Solution Link:
+https://leetcode.com/problems/largest-triangle-area/submissions/2036484686/
+
+**3. Count and Say**
+Solution Link:
+https://leetcode.com/problems/count-and-say/submissions/2036443587/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 33:**
+https://youtu.be/UntSI7G5h20
+
+---
