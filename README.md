@@ -608,3 +608,36 @@ https://leetcode.com/problems/count-and-say/submissions/2036443587/
 https://youtu.be/UntSI7G5h20
 
 ---
+
+## Day 04 — 18 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Angle Between Hands of a Clock**
+Solution Link:
+https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2037235535/
+
+**2. Check If Binary String Has at Most One Segment of Ones**
+Solution Link:
+https://leetcode.com/problems/check-if-binary-string-has-at-most-one-segment-of-ones/submissions/2037266909/
+
+**3. Minimize Maximum Pair Sum in Array**
+Solution Link:
+https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/submissions/2037307925/
+
+**4. Group Anagrams**
+Solution Link:
+https://leetcode.com/problems/group-anagrams/submissions/2037341011/
+
+**5. Kth Largest Element in an Array**
+Solution Link:
+https://leetcode.com/problems/kth-largest-element-in-an-array/submissions/2037709412/
+
+**6. Final Array State After K Multiplication Operations I**
+Solution Link:
+https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/submissions/2037762843/
+
+---
+
