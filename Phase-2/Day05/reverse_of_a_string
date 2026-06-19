@@ -1,0 +1,20 @@
+//reverse of a string
+
+
+// #include<iostream>
+// using namespace std;
+// string rev(string st,int s,int e)
+// {
+//     if(s>=e) return st;
+//     swap(st[s],st[e]);
+//     s++;
+//     e--;
+//     return rev(st,s,e);
+// }
+// int main()
+// {
+//     string st;
+//     cin>>st;
+//     int s=0,e=st.size()-1;
+//     cout<<rev(st,s,e);
+// }
