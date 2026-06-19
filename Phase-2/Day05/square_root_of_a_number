@@ -1,0 +1,41 @@
+//sqrt of a number
+
+#include <iostream>
+using namespace std;
+int sqrt(int s, int e,int n)
+{
+    int m = s + (e - s) / 2;
+    if(s==e ) return s;
+    if(m*m==n) return m;
+    else if (m*m>n)
+    {
+        e= m - 1;
+    }
+    else
+    {
+        s = m ;
+        if(e==s+1) return s;
+    }
+    return sqrt( s, e,n);
+}
+int main()
+{
+    int n ;
+    cin >> n;
+    int s = 0, e = n ;
+    int base=sqrt(s,e,n);
+    double p=base;
+    double cnt=1;
+    double num=n;
+    for(int i=0;i<6;i++)
+    {
+        double q=cnt/=10;
+        p+=q;
+        while(p*p<num)
+        {
+            p+=q;
+        }
+        p-=q;
+    }
+    cout<<p<<endl;
+}
