@@ -641,3 +641,46 @@ https://leetcode.com/problems/final-array-state-after-k-multiplication-operation
 
 ---
 
+## Day 05 — 19 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Remove Letter To Equalize Frequency**
+Solution Link:
+https://leetcode.com/problems/remove-letter-to-equalize-frequency/submissions/2038567290/
+
+**2. Find the Highest Altitude**
+Solution Link:
+https://leetcode.com/problems/find-the-highest-altitude/submissions/2038406895/
+
+---
+
+#### VS Code Practice (Recursion)
+
+1. Peak in an Array
+2. Pivot in an Array
+3. Power Function
+4. Reverse of a String
+5. Search in a Rotated Sorted Array
+6. Square Root of a Number
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 34:**
+https://youtu.be/WyY2Af3k1xI
+
+---
+
+### 🏆 Milestones Achieved
+
+* Completed **200 Problems on LeetCode** 🚀
+* Achieved the **100 Days Badge on LeetCode** 🏅
+
+---
+
