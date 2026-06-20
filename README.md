@@ -684,3 +684,28 @@ https://youtu.be/WyY2Af3k1xI
 
 ---
 
+## Day 06 — 20 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode Biweekly Contest
+
+**1. Create Grid With Exactly One Path**
+Solution Link:
+https://leetcode.com/problems/create-grid-with-exactly-one-path/submissions/2039867125/
+
+**2. Minimum Lights to Illuminate a Road**
+Solution Link:
+https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/submissions/2039970838/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 35:**
+https://youtu.be/cdHEpbBVjRM
+
+---
+
