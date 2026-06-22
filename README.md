@@ -709,3 +709,69 @@ https://youtu.be/cdHEpbBVjRM
 
 ---
 
+## Day 07 — 21 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Bitwise XOR of All Pairings**
+Solution Link:
+https://leetcode.com/problems/bitwise-xor-of-all-pairings/submissions/2041016093/
+
+**2. Construct the Longest New String**
+Solution Link:
+https://leetcode.com/problems/construct-the-longest-new-string/submissions/2040994876/
+
+**3. Vowels Game in a String**
+Solution Link:
+https://leetcode.com/problems/vowels-game-in-a-string/submissions/2040939453/
+
+**4. Maximum Building Height**
+Solution Link:
+https://leetcode.com/problems/maximum-building-height/submissions/2040917356/
+
+**5. Maximum Ice Cream Bars**
+Solution Link:
+https://leetcode.com/problems/maximum-ice-cream-bars/submissions/2040509725/
+
+**6. Valid Subarrays With Matching Sum Digits I**
+Solution Link:
+https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/submissions/2040444625/
+
+**7. Maximum Manhattan Distance After All Moves**
+Solution Link:
+https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/submissions/2040399077/
+
+---
+
+## Day 08 — 22 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Maximum Number of Balloons**
+Solution Link:
+https://leetcode.com/problems/maximum-number-of-balloons/submissions/2041810318/
+
+---
+
+#### VS Code Practice (Recursion + Sorting)
+
+1. Bubble Sort using Recursion
+2. Selection Sort using Recursion
+3. Insertion Sort using Recursion
+4. Merge Sort
+5. Inversion Count Problem
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 36:**
+https://youtu.be/sNaHN4tZmRk
+
+---
