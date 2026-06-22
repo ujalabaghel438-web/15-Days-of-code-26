@@ -1,0 +1,63 @@
+// #include <iostream>
+// using namespace std;
+// void merge(int *arr, int s, int e)
+// {
+//     int mid = s + (e - s) / 2;
+//     int len1 = mid - s + 1;
+//     int len2 = e - mid;
+//     int *brr = new int[mid - s + 1];
+//     int *crr = new int[e - mid];
+//     for (int i = 0; i < mid - s + 1; i++)
+//         brr[i] = arr[s + i];
+//     for (int i = 0; i < e - mid; i++)
+//         crr[i] = arr[mid + 1 + i];
+
+//     int k = s;
+//     int i = 0, j = 0;
+//     while (i < len1 && j < len2)
+//     {
+//         if (brr[i] < crr[j])
+//         {
+//             arr[k++] = brr[i];
+//             i++;
+//         }
+//         else
+//         {
+//             arr[k++] = crr[j];
+//             j++;
+//         }
+//     }
+//     while (i < len1)
+//     {
+//         arr[k++] = brr[i];
+//         i++;
+//     }
+//     while (j < len2)
+//     {
+//         arr[k++] = crr[j];
+//         j++;
+//     }
+//     delete[] brr;
+//     delete[] crr;
+// }
+// void sort(int *arr, int s, int e)
+// {
+//     if (s == e)
+//         return;
+//     int mid = s + (e - s) / 2;
+//     sort(arr, s, mid);
+//     sort(arr, mid + 1, e);
+//     merge(arr, s, e);
+// }
+// int main()
+// {
+//     int n;
+//     cin >> n;
+//     int arr[n];
+//     for (int i = 0; i < n; i++)
+//         cin >> arr[i];
+//     sort(arr, 0, n - 1);
+//     cout << endl;
+//     for (int i = 0; i < n; i++)
+//         cout << arr[i] << " ";
+// }
