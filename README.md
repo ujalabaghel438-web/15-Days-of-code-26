@@ -775,3 +775,36 @@ https://leetcode.com/problems/maximum-number-of-balloons/submissions/2041810318/
 https://youtu.be/sNaHN4tZmRk
 
 ---
+
+## Day 09 — 23 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Subsets II**
+Solution Link:
+https://leetcode.com/problems/subsets-ii/submissions/2043543185/
+
+**2. Subsets**
+Solution Link:
+https://leetcode.com/problems/subsets/submissions/2043528008/
+
+---
+
+#### VS Code Practice (Recursion)
+
+1. Quick Sort
+2. Subsets
+3. All Possible Subsequences in a String
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 37:**
+https://youtu.be/V0IgCltYgg4
+
+---
