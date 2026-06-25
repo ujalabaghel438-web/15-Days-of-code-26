@@ -856,6 +856,10 @@ https://leetcode.com/problems/most-common-word/submissions/2045867550/
 Solution Link:
 https://leetcode.com/problems/word-pattern/submissions/2045675205/
 
+**17. Letter Combinations of a Phone Number**
+Solution Link:
+https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/2045990050/
+
 ---
 
 ### 🎥 Learning Resources
