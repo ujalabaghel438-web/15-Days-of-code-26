@@ -808,3 +808,61 @@ https://leetcode.com/problems/subsets/submissions/2043528008/
 https://youtu.be/V0IgCltYgg4
 
 ---
+
+## Day 10 — 24 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Valid Word**
+Solution Link:
+https://leetcode.com/problems/valid-word/submissions/2044304525/
+
+**2. Count Subarrays With Majority Element I**
+Solution Link:
+https://leetcode.com/problems/count-subarrays-with-majority-element-i/submissions/2045542923/
+
+**3. Word Subsets**
+Solution Link:
+https://leetcode.com/problems/word-subsets/submissions/2045618687/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 38:**
+https://youtu.be/tWnHbSHwNmA
+
+---
+
+## Day 11 — 25 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Shortest Completing Word**
+Solution Link:
+https://leetcode.com/problems/shortest-completing-word/submissions/2045912466/
+
+**2. Most Common Word**
+Solution Link:
+https://leetcode.com/problems/most-common-word/submissions/2045867550/
+
+**3. Word Pattern**
+Solution Link:
+https://leetcode.com/problems/word-pattern/submissions/2045675205/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 39:**
+https://youtu.be/va3NEycUxsg
+
+---
