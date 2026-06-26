@@ -870,3 +870,36 @@ https://leetcode.com/problems/letter-combinations-of-a-phone-number/submissions/
 https://youtu.be/va3NEycUxsg
 
 ---
+
+## Day 12 — 26 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Check Digitorial Permutation**  
+Solution Link:  
+https://leetcode.com/problems/check-digitorial-permutation/submissions/2046951153/
+
+**2. Letter Case Permutation**  
+Solution Link:  
+https://leetcode.com/problems/letter-case-permutation/submissions/2046917968/
+
+**3. Permutations II**  
+Solution Link:  
+https://leetcode.com/problems/permutations-ii/submissions/2046888027/
+
+**4. Permutations**  
+Solution Link:  
+https://leetcode.com/problems/permutations/submissions/2046621234/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 40:**  
+https://youtu.be/GqtyVD-x_jY
+
+---
