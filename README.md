@@ -903,3 +903,32 @@ https://leetcode.com/problems/permutations/submissions/2046621234/
 https://youtu.be/GqtyVD-x_jY
 
 ---
+
+## Day 13 — 27 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Find the Maximum Number of Elements in Subset**  
+Solution Link:  
+https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset/submissions/2047715388/?envType=daily-question&envId=2026-06-27
+
+---
+
+#### Codeforces
+
+**1. Problem A**  
+Problem Link:  
+https://codeforces.com/contest/2240/problem/A
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 41:**  
+https://youtu.be/i_5pvt7ag7E
+
+---
