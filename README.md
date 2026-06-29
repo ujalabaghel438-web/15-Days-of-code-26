@@ -932,3 +932,63 @@ https://codeforces.com/contest/2240/problem/A
 https://youtu.be/i_5pvt7ag7E
 
 ---
+
+## Day 14 — 28 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Maximum Element After Decreasing and Rearranging**  
+Solution Link:  
+https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/submissions/2048915481/
+
+**2. Count Odd Numbers in an Interval Range**  
+Solution Link:  
+https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/submissions/2049111542/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 42:**  
+https://youtu.be/i_5pvt7ag7E
+
+---
+
+## Day 15 — 29 June ✅
+
+### 💻 Coding Practice
+
+#### LeetCode
+
+**1. Find the Longest Equal Subarray**  
+Solution Link:  
+https://leetcode.com/problems/find-the-longest-equal-subarray/submissions/2049688395/
+
+**2. Number of Strings That Appear as Substrings in Word**  
+Solution Link:  
+https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/submissions/2049696976/
+
+**3. Filter Occupied Intervals**  
+Solution Link:  
+https://leetcode.com/problems/filter-occupied-intervals/submissions/2049761279/
+
+---
+
+### 🎥 Learning Resources
+
+#### C++ Learning
+
+**Lecture 43:**  
+https://youtu.be/b3GccK5_KSQ
+
+---
+
+### 🏆 Milestone
+
+- Successfully completed **Part 2 of the Vision CSE – 15 Days of Code Challenge** 🎉🚀
+
+---
